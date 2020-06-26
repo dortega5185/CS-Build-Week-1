@@ -118,8 +118,8 @@ function App() {
                 setGrid(newGrid)
               }}
               style={{
-                width: 20,
-                height: 20,
+                width: 25,
+                height: 25,
                 backgroundColor: grid[i][k] ? 'black' : undefined,
                 border: 'solid 1px black',
               }}
